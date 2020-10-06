@@ -1,0 +1,2 @@
+class NoteGroupController < ApplicationController
+end

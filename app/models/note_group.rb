@@ -1,0 +1,2 @@
+class NoteGroup < ApplicationRecord
+end

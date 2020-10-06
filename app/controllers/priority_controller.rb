@@ -1,0 +1,2 @@
+class PriorityController < ApplicationController
+end
